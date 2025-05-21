@@ -8,8 +8,9 @@ With 5+ years of experience, I’ve built national databases and modernized anal
 
 > **✨"Empowering emotional intelligence for a better future."✨**
 
+![Expression](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w0Mm15aXd6cHM5Z2hhNnlkc3JrMWltbmdkNHV2ajFjeHpveXFwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHnROpQICe4kE/giphy.gif)
 ---
-<table>
+<table border="0" style="border: none;">
   <tr>
     <td valign="top" width="50%">
 
