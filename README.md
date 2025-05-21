@@ -37,6 +37,7 @@ With 5+ years of experience, I’ve built national databases and modernized anal
 </td>
 </tr>
 </table>
-- ⚡ Fun fact: I once helped develop a national database *over coffee and power naps!* ☕
+
+⚡ Fun fact: I once helped develop a national database *over coffee and power naps!* ☕
 
 
