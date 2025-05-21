@@ -9,13 +9,34 @@ With 5+ years of experience, I’ve built national databases and modernized anal
 > **✨"Empowering emotional intelligence for a better future."✨**
 
 ---
-- 🔭 I’m currently working on **data-driven strategies at PETRONAS** and research in **Health Economics & GIS**.
-- 🌱 I’m currently learning **cloud-based data pipelines** and **interactive data storytelling**.
-- 👯 I’m looking to collaborate on **open data platforms**, **health analytics**, and **social policy modeling**.
-- 🤔 I’m looking for help with **spatial analytics in public health** and **high-impact data communication**.
-- 💬 Ask me about **data science in government**, **research pipelines**, or **building national-level datasets**.
-- 📫 How to reach me: [Email](mailto:anajmiariffin@gmail.com), [LinkedIn](https://www.linkedin.com/in/najmiariffin), [Kolabtree](https://www.kolabtree.com/find-an-expert/ahmad-najmi-a.17853) or [GitHub](https://github.com/booluckgmie)
-- 😄 Pronouns: *he/him*
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+<h3>🚀 What I’m Up To</h3>
+
+<ul>
+  <li>🔭 Working on data-driven strategies at PETRONAS, and research in Health Economics & GIS.</li>
+  <li>🌱 Learning cloud-based data pipelines and interactive data storytelling.</li>
+  <li>👯 Looking to collaborate on open data platforms, health analytics, and social policy modeling.</li>
+  <li>🤔 Open to support with spatial analytics in public health and high-impact data communication.</li>
+</ul>
+
+</td>
+<td valign="top" width="50%">
+
+<h3>💬 Ask Me About</h3>
+
+<ul>
+  <li>Data science in government & public policy</li>
+  <li>Research pipelines for analytics</li>
+  <li>Building national-level datasets & modernizing analytics</li>
+  <li>GIS & spatial data for healthcare and policy</li>
+</ul>
+
+</td>
+</tr>
+</table>
 - ⚡ Fun fact: I once helped develop a national database *over coffee and power naps!* ☕
 
 
